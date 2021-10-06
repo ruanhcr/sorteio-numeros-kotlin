@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="txt_escolha">Escolha um número entre 0 e 10.</string>
+    <string name="botao_jogar">Jogar</string>
+    <string name="txt_nenhum">Nenhum número selecionado.</string>
+    <string name="txt_selecionado">O número sorteado foi: </string>
+    <string name="txt_numero">Número</string>
+</resources>
