@@ -1,5 +1,4 @@
-# sorteio-numeros
-App Android que sorteia números de 0 a 10 para estudo da linguagem Kotlin
+# Sorteio de Números
+App Android que sorteia números aleatoriamente de 0 a 10 ao pressionar o botão jogar, para estudo da linguagem Kotlin
 
-
-![image](https://user-images.githubusercontent.com/87544962/136249185-31d569eb-fc15-4ecc-843d-f2649aea9c80.png)
+![image](https://i.imgur.com/5bk8d1c.png)
